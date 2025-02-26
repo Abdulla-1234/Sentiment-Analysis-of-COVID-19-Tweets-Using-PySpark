@@ -1,7 +1,5 @@
 # Machine Learning Based Sentiment Analysis of COVID-19 Twitter Data Using PySpark
 
-![Sentiment Analysis Banner](white_png.png)
-
 ## Overview
 This project implements a **sentiment analysis system** using **PySpark** for analyzing **COVID-19-related Twitter data**. It employs **machine learning techniques** such as **K-Nearest Neighbors (KNN), Logistic Regression, Decision Tree, and Support Vector Machine (SVM)** to classify tweets as **positive, negative, or neutral**.
 
@@ -80,7 +78,7 @@ Sentiment_Analysis/
 #### TF-IDF Vectorizer
 | Logistic regression | Decision tree | SVM | KNN |
 |---------------|----------------|----------------|----------------|
-| ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Legistic_Regression.png) | ![DT](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Dession_tree.png) | <img src="https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_SVM.png" alt="SVM" width="650"/> | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_KNN.png) |
+| ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Legistic_Regression.png) | ![DT](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Dession_tree.png) | <img src="https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_SVM.png" alt="SVM" width="600"/> | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_KNN.png) |
 
 ### Performance Metrics and Accuracy
 | Count Vector | TF-IDF Vector |
