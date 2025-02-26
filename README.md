@@ -13,7 +13,7 @@ This project implements a **sentiment analysis system** using **PySpark** for an
 - **Deployment Ready**: Can be integrated with real-time Twitter streaming.
 
 ## System Architecture
-![System Architecture](Report/BDA_final.pptx)
+![System Architecture](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/System%20Architecture.png)
 
 The system consists of the following components:
 1. **Data Collection**: Extracts Twitter data from **data/Coronavirus Tweets.csv**.
@@ -77,15 +77,15 @@ Sentiment_Analysis/
 |---------------|----------------|----------------|----------------|
 | ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/Confusion%20matrix_Logistic_Regression.png) | ![Decision tree](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/Confusion%20matrix_Dession_tree.png) | ![SVM](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/Confusion%20matrix_SVM.png) | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/Confusion%20matrix_KNN.png) |
 
-### Confusion Matrices
-#### Count Vectorizer
-![Confusion Matrix CV](images/confusion_matrix.png)
-
 #### TF-IDF Vectorizer
-![Confusion Matrix TF-IDF](images/confusion_matrix_tfidf.png)
+| Logistic regression | Decision tree | SVM | KNN |
+|---------------|----------------|----------------|----------------|
+| ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Legistic_Regression.png) | ![DT](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Dession_tree.png) | ![SVM](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_SVM.png) | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_KNN.png) |
 
-### Performance Metrics
-![Model Performance](images/performance_metrics.png)
+### Performance Metrics and Accuracy
+| Count Vector | TF-IDF Vector |
+|---------------|----------------|
+| ![count](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/performance_count%20vector.png) | ![vector](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/performance_vector_TF-IDF.png) |
 
 ## Future Enhancements
 - **Real-time sentiment tracking** using streaming APIs.
@@ -94,14 +94,6 @@ Sentiment_Analysis/
 
 ## Authors
 - [Mohammad Abdulla](https://www.linkedin.com/in/mohammad-abdulla-doodakula-8a3307258/)
-- G. Tej Deep Reddy, G. Mukesh Venkata Sai
-
-## License
-This project is licensed under the MIT License.
-
-## Citation
-If you use this project in your research, please cite our paper:
-> "Machine Learning Based Sentiment Analysis of COVID-19 Twitter Data Using PySpark" - Published at **Amrita Vishwa Vidyapeetham, 2023**.
 
 ---
 **Contributions are welcome! Feel free to fork, improve, or raise issues for discussion. 🚀**
