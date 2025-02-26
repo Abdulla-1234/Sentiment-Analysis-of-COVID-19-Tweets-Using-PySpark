@@ -80,7 +80,7 @@ Sentiment_Analysis/
 #### TF-IDF Vectorizer
 | Logistic regression | Decision tree | SVM | KNN |
 |---------------|----------------|----------------|----------------|
-| ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Legistic_Regression.png) | ![DT](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Dession_tree.png) | <img src="https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_SVM.png" alt="SVM" width="100"/> | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_KNN.png) |
+| ![LR](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Legistic_Regression.png) | ![DT](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_Dession_tree.png) | <img src="https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_SVM.png" alt="SVM" width="300"/> | ![KNN](https://github.com/Abdulla-1234/Sentiment-Analysis-of-COVID-19-Tweets-Using-PySpark/blob/main/Images/TF-IDF_KNN.png) |
 
 ### Performance Metrics and Accuracy
 | Count Vector | TF-IDF Vector |
